@@ -1,0 +1,6 @@
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\App.Analise\bin\Debug\App.Analise.exe.config
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\App.Analise\bin\Debug\App.Analise.exe
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\App.Analise\bin\Debug\App.Analise.pdb
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\App.Analise\obj\Debug\App.Analise.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\App.Analise\obj\Debug\App.Analise.exe
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\App.Analise\obj\Debug\App.Analise.pdb

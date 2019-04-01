@@ -1,0 +1,8 @@
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\bin\Debug\Texte.exe.config
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\bin\Debug\Texte.exe
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\bin\Debug\Texte.pdb
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\bin\Debug\App.Analise.exe
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\bin\Debug\App.Analise.pdb
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\obj\Debug\Texte.exe
+C:\Users\Sabrina.coliveira8\Desktop\GigSchool\Texte\obj\Debug\Texte.pdb
